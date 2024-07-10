@@ -1,2 +1,3 @@
 begin
+//comment
 end.
