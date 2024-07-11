@@ -5,3 +5,4 @@ read;
 local test
 end.
 // teat comment from Marina
+//проверка
