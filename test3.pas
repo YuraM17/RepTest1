@@ -1,3 +1,4 @@
 begin
-//proverka 3 проверка 3
+//proverka 3 ГЇГ°Г®ГўГҐГ°ГЄГ  3
+//test3 С‚РµСЃС‚3
 end.
