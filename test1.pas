@@ -6,4 +6,4 @@ local test
 end.
 // teat comment from Marina
 //проверка
-//Новая проверка 123
+//Новая проверка 1234
